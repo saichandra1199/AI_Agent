@@ -1,6 +1,6 @@
 # AI Agent using OpenAI
 
-This repository contains a framework to build an AI agent using the OpenAI API.
+This repository contains a basic framework for building an AI agent using the OpenAI API.
 
 ## Features
 
