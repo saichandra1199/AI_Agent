@@ -12,7 +12,7 @@ This repository contains a framework to build an AI agent using the OpenAI API.
 
 1.  Clone this repository:
     ```bash
-    git clone https://github.com/saichandra1199/Agentic_AI.git
+    git clone https://github.com/saichandra1199/AI_Agent.git
     ```
 2.  Install the dependencies:
     ```bash
